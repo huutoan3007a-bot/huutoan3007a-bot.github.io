@@ -39,10 +39,6 @@ button {
 .add-btn:hover {
     background: #4446d8;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> e969e9a60653ad82fcef5d73c2f2ef4370733c6c
 .filters {
     margin: 10px 0;
     display: flex;
@@ -56,22 +52,7 @@ button {
     background: #5b5df0;
     color: white;
 }
-<<<<<<< HEAD
 .filters button:hover {
     background: #c0c0c0;
     color:white;
 }
-ul {
-    list-style: none;
-    padding: 0;
-}
-
-li {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 8px;
-    border-bottom: 1px solid #ddd;
-}
-=======
->>>>>>> e969e9a60653ad82fcef5d73c2f2ef4370733c6c
