@@ -40,3 +40,12 @@ button {
     background: #5b5df0;
     color: white;
 }
+.add-btn:hover {
+    background: #4446d8;
+}
+
+.filters {
+    margin: 10px 0;
+    display: flex;
+    gap: 5px;
+}
