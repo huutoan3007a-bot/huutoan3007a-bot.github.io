@@ -1,6 +1,6 @@
 body {
     font-family: Arial;
-    background: #f4f4f4;
+    background-color: #f4f4f4;
     display: flex;
     justify-content: center;
     margin-top: 50px;
@@ -33,11 +33,11 @@ button {
     border-radius: 5px;
 }
 .add-btn {
-    background: #5b5df0;
+    background-color: #5b5df0;
     color: white;
 }
 .add-btn:hover {
-    background: #4446d8;
+    background-color: #4446d8;
 }
 .filters {
     margin: 10px 0;
@@ -45,10 +45,10 @@ button {
     gap: 5px;
 }
 .filters button {
-    background: #e0e0e0;
+    background-color: #e0e0e0;
     flex: 1;
 }
 .filters button.active {
-    background: #5b5df0;
+    background-color: #5b5df0;
     color: white;
 }
