@@ -48,7 +48,4 @@ button {
     background: #e0e0e0;
     flex: 1;
 }
-.active {
-    background: #5b5df0;
-    color: white;
-}
+
