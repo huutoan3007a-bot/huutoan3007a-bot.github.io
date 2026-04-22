@@ -44,11 +44,11 @@ button {
     display: flex;
     gap: 5px;
 }
-.filters button{
+.filters button {
     background: #e0e0e0;
     flex:1;
 }
-.filters button.active{
+.filters button.active {
     background: #5b5df0;
     color: white;
 }
