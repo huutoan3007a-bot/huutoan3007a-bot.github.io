@@ -5,7 +5,6 @@ body {
     justify-content: center;
     margin-top: 50px;
 }
-
 .app {
     background: white;
     width: 350px;
@@ -15,7 +14,6 @@ body {
 h2 {
     text-align: left;
 }
-
 .input-group {
     display: flex;
     gap: 5px;
@@ -24,7 +22,6 @@ h2 {
     display: flex;
     gap: 5px;
 }
-
 input {
     flex: 1;
     padding: 8px;
@@ -35,7 +32,6 @@ button {
     cursor: pointer;
     border-radius: 5px;
 }
-
 .add-btn {
     background: #5b5df0;
     color: white;
@@ -43,7 +39,10 @@ button {
 .add-btn:hover {
     background: #4446d8;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> e969e9a60653ad82fcef5d73c2f2ef4370733c6c
 .filters {
     margin: 10px 0;
     display: flex;
@@ -57,6 +56,7 @@ button {
     background: #5b5df0;
     color: white;
 }
+<<<<<<< HEAD
 .filters button:hover {
     background: #c0c0c0;
     color:white;
@@ -73,3 +73,5 @@ li {
     padding: 8px;
     border-bottom: 1px solid #ddd;
 }
+=======
+>>>>>>> e969e9a60653ad82fcef5d73c2f2ef4370733c6c
