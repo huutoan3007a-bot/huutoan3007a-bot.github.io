@@ -5,7 +5,6 @@ body {
     justify-content: center;
     margin-top: 50px;
 }
-
 .app {
     background: white;
     width: 350px;
@@ -15,7 +14,6 @@ body {
 h2 {
     text-align: left;
 }
-
 .input-group {
     display: flex;
     gap: 5px;
@@ -34,7 +32,6 @@ button {
     cursor: pointer;
     border-radius: 5px;
 }
-
 .add-btn {
     background: #5b5df0;
     color: white;
@@ -42,7 +39,6 @@ button {
 .add-btn:hover {
     background: #4446d8;
 }
-
 .filters {
     margin: 10px 0;
     display: flex;
